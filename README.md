@@ -29,12 +29,16 @@
 
  <b>Computer Vision</b>
   - [ Smart Object Detection System](https://github.com/joshmadakor1/Algorithms-Practice)
+    
  <b>🌤️ AI / Machine Learning on AWS</b>
   - [ Dust Devil Risk Index (DDRI)](https://github.com/joshmadakor1/Algorithms-Practice)
+    
  <b>Anomaly Detection System</b>
   - [ Industrial Equipment Health Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
+    
  <b>Time-Series Forecasting</b>
   - [ Power Consumption Predictor](https://github.com/joshmadakor1/Algorithms-Practice)
+    
  <b>Audio and Voice AI</b>
   - [ Voice Controlled Home Automation](https://github.com/joshmadakor1/Algorithms-Practice)
 
