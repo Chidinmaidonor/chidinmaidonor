@@ -1,4 +1,4 @@
-<h1> Chidinma Idonor<br/><a href="https://github.com/joshmadakor1">Embedded System</a>, <a href="https://www.linkedin.com/in/joshmadakor/"> Software Programming</a></h1>
+<h1> Chidinma Idonor<br/><a href="https://github.com/joshmadakor1">Embedded System</a> | <a href="https://www.linkedin.com/in/joshmadakor/"> Software Programming</a></h1>
 
 <h2> Embedded Systems Projects:</h2>
 
