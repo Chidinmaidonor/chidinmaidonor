@@ -25,7 +25,7 @@
  <b> 📁 S3 Static Website Hosting</b>
   - [End-to-end setup of a static portfolio site hosted on S3, using Route 53 for domain, CloudFront for CDN, and SSL via ACM.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2> Artificial Intelligenc / Deep Learning</h2>
+<h2> Artificial Intelligence / Deep Learning</h2>
 
  <b>Computer Vision</b>
   - [ Smart Object Detection System](https://github.com/joshmadakor1/Algorithms-Practice)
