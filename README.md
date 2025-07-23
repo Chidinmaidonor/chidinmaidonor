@@ -4,7 +4,8 @@
 
  <b>🧠 Arduino / Microcontroller Projects</b>
   - [Package Delivery App (with Algorithms)](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [PLC Timer / Counter Logic](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [PLC Timer / Counter Logic](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+    
  <b>🏭 PLC / Access Control Simulation</b>
   - [Bulk User Provisioning System](https://github.com/joshmadakor1/Sentinel-Lab)
 
@@ -12,10 +13,13 @@
 
  <b>🌤️ AI / Machine Learning on AWS</b>
   - [ Dust Devil Risk Index (DDRI)](https://github.com/joshmadakor1/Algorithms-Practice)
+    
  <b>🔧 Serverless Applications</b>
   - [Smart Traffic Management with PLC & AI](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+
  <b> 🛠️ Infrastructure & Automation</b>
   - [Infrastructure as Code (IaC) Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
  <b> 📁 S3 Static Website Hosting</b>
   - [End-to-end setup of a static portfolio site hosted on S3, using Route 53 for domain, CloudFront for CDN, and SSL via ACM.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
