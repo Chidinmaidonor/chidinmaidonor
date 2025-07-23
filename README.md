@@ -34,7 +34,7 @@
   - [ Industrial Equipment Health Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
     
  <b>Time-Series Forecasting</b>
-  - [ Power Consumption Predictor](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ Power Consumption Predictor](https://github.com/Chidinmaidonor/Artificial-Intelligence-Auto-Power-Consumption-predictor/blob/35417525c9d2dc5a41f0f7180f59f2ba993c6624/README.md)
     
  <b>Audio and Voice AI</b>
   - [ Voice Controlled Home Automation](https://github.com/joshmadakor1/Algorithms-Practice)
