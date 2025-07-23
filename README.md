@@ -4,10 +4,12 @@
 
  <b>🧠 Arduino / Microcontroller Projects</b>
   - [Package Delivery App (with Algorithms)](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [PLC Timer / Counter Logic](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Emergency Health Alert System](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
     
- <b>🏭 PLC / Access Control Simulation</b>
+ <b>🏭 PLC / Industrial Control Simulation</b>
   - [Bulk User Provisioning System](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Sorting Mechanism (Timer + Counter Logic)](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Intelligent Traffic Light System)](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <h2> Software Development Projects</h2>
 
