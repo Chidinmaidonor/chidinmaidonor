@@ -12,9 +12,6 @@
   - [Intelligent Traffic Light System)](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <h2> Software Development Projects</h2>
-
- <b>🌤️ AI / Machine Learning on AWS</b>
-  - [ Dust Devil Risk Index (DDRI)](https://github.com/joshmadakor1/Algorithms-Practice)
     
  <b>🔧 Serverless Applications</b>
   - [Smart Traffic Management with PLC & AI](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
