@@ -16,6 +16,8 @@
   - [Smart Traffic Management with PLC & AI](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b> 🛠️ Infrastructure & Automation</b>
   - [Infrastructure as Code (IaC) Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b> 📁 S3 Static Website Hosting</b>
+  - [End-to-end setup of a static portfolio site hosted on S3, using Route 53 for domain, CloudFront for CDN, and SSL via ACM.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2>📺 Popular YouTube Videos</h2>
