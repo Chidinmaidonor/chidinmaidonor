@@ -7,8 +7,7 @@
   - [Emergency Health Alert System](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
     
  <b>🏭 PLC / Industrial Control Simulation</b>
-  - [Bulk User Provisioning System](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Sorting Mechanism (Timer + Counter Logic)](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Automatic Rice Dispenser](https://github.com/Chidinmaidonor/PLC-Project-Auto-Rice-Dispenser/blob/master/README.md)
   - [Intelligent Traffic Light System)](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <h2> Software Development Projects</h2>
