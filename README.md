@@ -61,10 +61,10 @@
 - Simple Machine Learning Project in 5 Mins (https://youtu.be/ZdMk1xGtDtQ)
 
 - Load and Display Image Dataset from Google Drive in Colab (https://youtu.be/kOj2_Jj6csk)
-- 
+  
 - Predicting Power Consumption using Artificial Intelligence Model (https://youtu.be/jdz9wYqydS0)
-- 
+  
 - Master AWS in 30 Days Series (https://youtu.be/xJu39-qbcjo)
-- 
+  
 - Jollof Rice Dispenser with TIA Portal PLC Project (https://youtu.be/br58FgKLC3g)
 
