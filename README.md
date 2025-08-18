@@ -27,8 +27,8 @@
   - [ Smart Object Detection System](https://github.com/)
     
  <b>🌤️ AI / Machine Learning on AWS</b>
-  - [ Housing Price CI/CD Pipeline](https://github.com/Chidinmaidonor/housing-price-ci-cd-pipeline)
-    
+  - [ Housing Price App using CI/CD Pipeline](https://github.com/Chidinmaidonor/housing-price-ci-cd-pipeline)
+  - [ Pet Prediction App using CI/CD Pipeline].(https://github.com/Chidinmaidonor/pet-prediction-app-ci-cd)
  <b>Anomaly Detection System</b>
   - [ Industrial Equipment Health Monitoring](https://github.com/)
     
