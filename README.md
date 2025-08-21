@@ -1,4 +1,16 @@
-<h1> Chidinma Idonor<br/><a href="https://github.com/chidinmaidonor">Embedded System</a> | <a href="www.linkedin.com/in/chidinma-idonor-1053ab19b"> Software Programming</a></h1>
+<h1> Hi i'm Chidinma Idonor<br/></h1>
+
+I’m a systems & software Engineer with expertise in Artificial Intelligence, Industrial Automation (PLC/HMI), and Cloud Systems.
+I enjoy building intelligent solutions that combine AI, control systems, and cloud technologies to solve real-world problems.
+
+<h2>📂 Explore My Portfolios</h2>
+
+- <a href="https://chidinmaidonor.github.io/portfolio-artificial-intelligence/">Artificial Intelligence Portfolio</a>
+
+- <a href="https://chidinmaidonor.github.io/portfolio-automation-systems/">Automation & PLC Systems Portfolio</a>
+
+- <a href="https://chidinmaidonor.github.io/portfolio-cloud-devops/">Cloud & Devops Portfolio</a>
+
 
 <h2> Embedded Systems Projects</h2>
 
