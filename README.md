@@ -3,7 +3,7 @@
 I’m a systems & software Engineer with expertise in Artificial Intelligence, Industrial Automation (PLC/HMI), and Cloud Systems.
 I enjoy building intelligent solutions that combine AI, control systems, and cloud technologies to solve real-world problems.
 
-<h2>📂 Explore My Portfolios</h2>
+<h2> Explore My Portfolios</h2>
 
 - <a href="https://chidinmaidonor.github.io/portfolio-artificial-intelligence/">Artificial Intelligence Portfolio</a>
 
@@ -12,15 +12,34 @@ I enjoy building intelligent solutions that combine AI, control systems, and clo
 - <a href="https://chidinmaidonor.github.io/portfolio-cloud-devops/">Cloud & Devops Portfolio</a>
 
 
-<h2>🚀 Highlighted Projects<h2>
+<h2> Highlighted Projects</h2>
 
-<h2> 🧠 Artificial Intelligence / Machine Learning</h2>
+<h2>  Artificial Intelligence / Machine Learning</h2>
 
 - AI-based Traffic Management
 
-Integrated AI with a simulated traffic light system to optimize flow and reduce congestion.
+  Integrated AI with a simulated traffic light system to optimize flow and reduce congestion.
 
-[Repo](https://github.com/Chidinmaidonor/housing-price-ci-cd-pipeline)| - [ Architecture](https://github.com/Chidinmaidonor/housing-price-ci-cd-pipeline)
+  [Repo](https://github.com/Chidinmaidonor/housing-price-ci-cd-pipeline) |[ Architecture](https://github.com/Chidinmaidonor/housing-price-ci-cd-pipeline)
+
+<h2> Automation & PLC Systems</h2>
+
+- Automatic Rice Dispenser
+
+  An automated rice dispensing system designed in TIA Portal using PLC for precise portion control and efficient material handling.
+
+  [Repo](https://github.com/Chidinmaidonor/PLC-Project-Auto-Rice-Dispenser) |[ Architecture](https://github.com/Chidinmaidonor/PLC-Project-Auto-Rice-Dispenser)
+
+<h2> Embedded Systems / Arduino</h2>
+
+- Light Bar and Logic Circuit using MUX
+
+ An Arduino-based light bar control system implemented with a multiplexer (MUX) and logic circuits for efficient signal selection and LED display management
+
+  [Repo](https://github.com/Chidinmaidonor/Arduino_Projects-Arduino-Based-Light-Bar-and-Logic-Circuit-Design-Using-Multiplexers) |[ Architecture](https://github.com/Chidinmaidonor/Arduino_Projects-Arduino-Based-Light-Bar-and-Logic-Circuit-Design-Using-Multiplexers)
+
+
+
 
 
 
