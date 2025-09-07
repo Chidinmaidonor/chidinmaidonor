@@ -1,20 +1,19 @@
 <h1> Hi i'm Chidinma Idonor<br/></h1>
 
-I’m a systems & software Engineer with expertise in Artificial Intelligence, Industrial Automation (PLC/HMI), and Cloud Systems.
-I enjoy building intelligent solutions that combine AI, control systems, and cloud technologies to solve real-world problems.
+I am a Systems Software Engineer with expertise in embedded systems, Deep learning, computer architecture, and industrial automation. Skilled in TensorFlow, Python, C/C++, CUDA, Arduino, and microcontroller development, I design and deploy real-time control systems, GPU-accelerated workflows, and hardware-software integrated solutions. Experienced with PLC/SCADA integration, edge computing, and high-performance embedded platforms, I also mentor students in digital logic and embedded system design. Beyond engineering, I serve as a Senate Member at the University of Tulsa and volunteer as a STEM mentor, blending technical innovation with community leadership.
 
 <h2> Explore My Portfolios</h2>
 
-- <a href="https://chidinmaidonor.github.io/portfolio-artificial-intelligence/">Artificial Intelligence Portfolio</a>
+- <a href="https://chidinmaidonor.github.io/portfolio-artificial-intelligence/">Artificial Intelligence | Deep learning Portfolio</a>
 
-- <a href="https://chidinmaidonor.github.io/portfolio-automation-systems/">Automation & PLC Systems Portfolio</a>
+- <a href="https://chidinmaidonor.github.io/portfolio-automation-systems/">Automation & Embedded Systems Portfolio</a>
 
 - <a href="https://chidinmaidonor.github.io/portfolio-cloud-devops/">Cloud & Devops Portfolio</a>
 
 
 <h2> Highlighted Projects</h2>
 
-<h2>  Artificial Intelligence / Machine Learning</h2>
+<h2>  Artificial Intelligence / Deeep Learning</h2>
 
 - AI-based Traffic Management
 
