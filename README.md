@@ -13,13 +13,11 @@
 
 <h2>  Artificial Intelligence / Deeep Learning</h2>
 
-- AI-based Traffic Management
-
-  Integrated AI with a simulated traffic light system to optimize flow and reduce congestion.
+- CI/CD Pipeline for Housing Price Prediction Application .
 
   [Repo](https://github.com/Chidinmaidonor/housing-price-ci-cd-pipeline) |[ Architecture](https://github.com/Chidinmaidonor/housing-price-ci-cd-pipeline)
 
-<h2> Automation & PLC Systems</h2>
+<h2> Automation </h2>
 
 - Automatic Rice Dispenser
 
