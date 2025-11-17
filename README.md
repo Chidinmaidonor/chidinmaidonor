@@ -1,7 +1,5 @@
 <h1> Hi i'm Chidinma Idonor<br/></h1>
 
-I am a Systems Software Engineer with expertise in embedded systems, Deep learning, computer architecture, and industrial automation. Skilled in TensorFlow, Python, C/C++, CUDA, Arduino, and microcontroller development, I design and deploy real-time control systems, GPU-accelerated workflows, and hardware-software integrated solutions. Experienced with PLC/SCADA integration, edge computing, and high-performance embedded platforms, I also mentor students in digital logic and embedded system design. Beyond engineering, I serve as a Senate Member at the University of Tulsa and volunteer as a STEM mentor, blending technical innovation with community leadership.
-
 <h2> Explore My Portfolios</h2>
 
 - <a href="https://chidinmaidonor.github.io/portfolio-artificial-intelligence/">Artificial Intelligence | Deep learning Portfolio</a>
